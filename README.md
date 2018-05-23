@@ -10,7 +10,7 @@
 
 ~Move installed files to directory
 
-~Edit both `botconfig.json` and the last line of `index` to configure the bot
+~Edit both `botconfig.json` and the last line of `index.js` to configure the bot
 
 ~Launch command prompt and navigate to containing directory
 
