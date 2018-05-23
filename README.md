@@ -6,7 +6,7 @@
 
 ~Node.js (https://nodejs.org/en/)
 
-**Instalation**
+**Installation**
 
 ~Move installed files to directory
 
