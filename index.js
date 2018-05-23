@@ -212,4 +212,4 @@ bot.on("message", async message => {
       
 });
 
-bot.login('NDQ2ODYwNTY5MzU4ODkzMDY2.Dd_K2w.wt5USdOifiHmsYgkm-vZme7pz-A');
+bot.login('TOKEN HERE');
